@@ -1,6 +1,6 @@
 # Aadhaar Data Analysis Project
 ## Introduction
-This project explores the potential of using Qlik to analyze Aadhaar data, India's unique identification system. It aims to extract valuable insights to inform policymaking, improve service delivery, and understand demographic trends.
+
 This project investigates the potential of Qlik to analyze Aadhaar data, India's unique identification system. The goal is to extract valuable insights to inform policymaking, enhance service delivery, and understand demographic trends.
 
 ## Purpose
